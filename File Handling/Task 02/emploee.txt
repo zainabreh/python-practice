@@ -1,0 +1,15 @@
+Name: asd
+ID Number: 234
+Department: cvb
+Name: hjk
+ID Number: 789
+Department: uio
+Name: zainab
+ID Number: 234
+Department: Software Engineering
+Name: Rehman
+ID Number: 567
+Department: Electrical Engineering
+Name: Nasir
+ID Number: 890
+Department: Doctor

@@ -1,0 +1,10 @@
+Zainab: 45
+Ali:78
+Ahmed:34
+Ayesha:62
+Yousaf: 120
+Rehman:86
+Nasir:58
+Rabia:46
+Palwasha:65
+Habiba:56
